@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alcides1tiago
+- 👋 Hi, I’m Alcides Tiago
 - 👀 I’m interested in C#.NET ReactJS.
 - 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on Databases andmin and FrontEnd Projects...
+- 💞️ I’m looking to collaborate on Databases Admin, BackEnd and FrontEnd Projects...
 - 📫 How to reach me alcides1tiago@gmail.com or on WhatsApp: +244949804856.
 
 <!---
